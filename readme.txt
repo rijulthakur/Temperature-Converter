@@ -1,1 +1,1 @@
-A basic Temperature Converter Page made using HTML,CSS and JS.
+A Basic Temperature Converter Page made using HTML,CSS and JS.
